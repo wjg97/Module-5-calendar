@@ -13,23 +13,23 @@ textarea {
   padding: 10px;
 }
 
-.save-container {
+.save-box {
   background-color: powderblue;
 }
 
-.jumbotron {
+.header {
   text-align: center;
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 25px solid white;
 }
 
 .description {
   white-space: pre-wrap;
 }
 
-.time-block {
+.current-time {
   text-align: center;
   border-radius: 15px;
 }
