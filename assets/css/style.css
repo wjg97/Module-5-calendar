@@ -2,19 +2,20 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-color: #e48989;
 }
 
 textarea {
   background: transparent;
   border: none;
   resize: none;
-  color: #000000;
-  border-left: 1px solid black;
+  color: #020101;
+  border-left: 1px solid rgb(3, 1, 1);
   padding: 10px;
 }
 
 .save-box {
-  background-color: powderblue;
+  background-color: rgb(128, 105, 218);
 }
 
 .header {
@@ -22,7 +23,7 @@ textarea {
   background-color: transparent;
   color: black;
   border-radius: 0;
-  border-bottom: 25px solid white;
+  border-bottom: 25px solid: #e48989;
 }
 
 .description {
@@ -62,10 +63,10 @@ textarea {
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border-left: 1px solid rgb(8, 6, 6);
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #a10976;
   color: white;
 }
 
