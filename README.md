@@ -20,7 +20,8 @@ Please refer to the LICENSE in the repo.
 ## Features
 shows current time and date
 ## ScreenShot
-<img 
+<img <img width="1440" alt="Screenshot 2022-11-14 at 17 18 03" src="https://user-images.githubusercontent.com/113846649/201795911-fb095449-f7eb-46d3-99ed-340aa8e083d0.png">
+
 
 ## Website Link
 https://wjg97.github.io/Module-5-calendar/
